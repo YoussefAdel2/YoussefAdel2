@@ -4,26 +4,23 @@
 
 🎓 First-year student at the **Faculty of Computers and Information, Sohag University, Egypt**.
 
-I'm currently learning programming fundamentals and exploring different areas of computer science. My goal is to build a strong technical foundation, improve my problem-solving skills, and gradually develop practical software projects.
+I'm building my foundation in computer science, learning programming fundamentals, and exploring how technology can solve real-world problems.
 
-🚀 *Learning today, building tomorrow.*
+🚀 My goal is to grow as a developer through continuous learning, problem-solving, and practical experience.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying Computer Science at Sohag University.
-- 🌱 Currently learning programming fundamentals.
-- 💡 Exploring different areas of computer science and technology.
+- 🎓 Computer Science student at Sohag University.
+- 🌱 Learning programming fundamentals and core computer science concepts.
+- 💻 Currently studying C++, Python, HTML, CSS, and CS50.
 - 🧩 Interested in problem-solving and software development.
-- 📚 Learning through coursework, practice, and hands-on exercises.
-- 🎯 Working toward building practical projects and growing as a developer.
+- 🎯 Focused on improving my skills and building my first practical projects.
 
 ---
 
-## 🛠️ Technologies & Learning
-
-These are the languages, technologies, and learning resources I'm currently studying.
+## 🛠️ Technologies I'm Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -35,58 +32,34 @@ These are the languages, technologies, and learning resources I'm currently stud
 
 ---
 
-## 🧠 Areas of Interest
+## 🎯 Areas of Interest
 
-- 💻 Computer Science Fundamentals
-- 🧩 Problem-Solving and Logical Thinking
-- 🏗️ Software Development
+- 💻 Software Development
+- 🧩 Problem-Solving
 - 🤖 Artificial Intelligence
 - 🌐 Web Development
-- 📖 Programming and Continuous Learning
 
-*These are areas I'm exploring, not claims of professional experience.*
+*I'm exploring these fields as I continue my computer science journey.*
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Focus
 
-My current focus is on understanding the fundamentals and developing good programming habits.
-
-- Learning programming with C++ and Python.
-- Studying HTML and CSS.
-- Exploring computer science concepts through CS50.
+- Strengthening my programming fundamentals.
 - Practicing logical thinking and problem-solving.
-- Learning how to use GitHub to organize and share my learning journey.
+- Understanding core computer science concepts through CS50.
+- Learning to organize and share code using GitHub.
+- Working toward my first personal projects.
 
 ---
 
-## 📂 My Projects
+## 📂 Projects
 
-I'm currently building my foundation in computer science. As I gain experience, I'll use this section to showcase my personal projects, practice exercises, and other work I'm ready to share.
-
-Stay tuned for updates! 🌱
+I'm currently focusing on learning and practice. This section will grow as I create projects and have work to share.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YoussefAdel2&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Youssef Adel's GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAdel2&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="mailto:yadel9682@gmail.com">
@@ -97,8 +70,6 @@ Stay tuned for updates! 🌱
   </a>
 </p>
 
-📧 **Email:** [yadel9682@gmail.com](mailto:yadel9682@gmail.com)
-
 ---
 
 <p align="center">
@@ -106,5 +77,5 @@ Stay tuned for updates! 🌱
 </p>
 
 <p align="center">
-  <i>Every line of code is a step forward.</i>
+  <i>Every expert was once a beginner.</i>
 </p>
