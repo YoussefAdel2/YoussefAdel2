@@ -4,23 +4,26 @@
 
 🎓 First-year student at the **Faculty of Computers and Information, Sohag University, Egypt**.
 
-I'm building my foundation in computer science, learning programming fundamentals, and exploring how technology can solve real-world problems.
+I'm currently learning programming fundamentals and exploring different areas of computer science. My goal is to build a strong technical foundation, improve my problem-solving skills, and gradually develop practical software projects.
 
-🚀 My goal is to grow as a developer through continuous learning, problem-solving, and practical experience.
+🚀 *Learning today, building tomorrow.*
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student at Sohag University.
-- 🌱 Learning programming fundamentals and core computer science concepts.
-- 💻 Currently studying C++, Python, HTML, CSS, and CS50.
+- 🎓 Studying Computer Science at Sohag University.
+- 🌱 Currently learning programming fundamentals.
+- 💡 Exploring different areas of computer science and technology.
 - 🧩 Interested in problem-solving and software development.
-- 🎯 Focused on improving my skills and building my first practical projects.
+- 📚 Learning through coursework, practice, and hands-on exercises.
+- 🎯 Working toward building practical projects and growing as a developer.
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠️ Technologies & Learning
+
+These are the languages, technologies, and learning resources I'm currently studying.
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -32,34 +35,58 @@ I'm building my foundation in computer science, learning programming fundamental
 
 ---
 
-## 🎯 Areas of Interest
+## 🧠 Areas of Interest
 
-- 💻 Software Development
-- 🧩 Problem-Solving
+- 💻 Computer Science Fundamentals
+- 🧩 Problem-Solving and Logical Thinking
+- 🏗️ Software Development
 - 🤖 Artificial Intelligence
 - 🌐 Web Development
+- 📖 Programming and Continuous Learning
 
-*I'm exploring these fields as I continue my computer science journey.*
+*These are areas I'm exploring, not claims of professional experience.*
 
 ---
 
-## 📚 Current Focus
+## 📚 Currently Learning
 
-- Strengthening my programming fundamentals.
+My current focus is on understanding the fundamentals and developing good programming habits.
+
+- Learning programming with C++ and Python.
+- Studying HTML and CSS.
+- Exploring computer science concepts through CS50.
 - Practicing logical thinking and problem-solving.
-- Understanding core computer science concepts through CS50.
-- Learning to organize and share code using GitHub.
-- Working toward my first personal projects.
+- Learning how to use GitHub to organize and share my learning journey.
 
 ---
 
-## 📂 Projects
+## 📂 My Projects
 
-I'm currently focusing on learning and practice. This section will grow as I create projects and have work to share.
+I'm currently building my foundation in computer science. As I gain experience, I'll use this section to showcase my personal projects, practice exercises, and other work I'm ready to share.
+
+Stay tuned for updates! 🌱
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YoussefAdel2&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Youssef Adel's GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAdel2&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:yadel9682@gmail.com">
@@ -70,6 +97,8 @@ I'm currently focusing on learning and practice. This section will grow as I cre
   </a>
 </p>
 
+📧 **Email:** [yadel9682@gmail.com](mailto:yadel9682@gmail.com)
+
 ---
 
 <p align="center">
@@ -77,5 +106,5 @@ I'm currently focusing on learning and practice. This section will grow as I cre
 </p>
 
 <p align="center">
-  <i>Every expert was once a beginner.</i>
+  <i>Every line of code is a step forward.</i>
 </p>
