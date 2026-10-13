@@ -1,94 +1,81 @@
 # 👋 Hi, I'm Youssef Adel
 
-### 💻 Computer Science Student | Aspiring Software Engineer
+### 💻 Computer Science Student | Exploring Computer Science
 
 🎓 First-year student at the **Faculty of Computers and Information, Sohag University, Egypt**.
 
-I'm at the beginning of my programming journey, exploring computer science and building a strong foundation in software engineering.
+I'm building my foundation in computer science, learning programming fundamentals, and exploring how technology can solve real-world problems.
 
-I believe in learning by doing, staying curious, and improving one step at a time. 🚀
-
----
-
-## 🧠 About Me
-
-- 🎓 Studying Computer Science at Sohag University.
-- 💻 Exploring the fundamentals of programming and software development.
-- 🛠️ Learning how to write clean, readable, and maintainable code.
-- 🧩 Interested in problem-solving and software engineering.
-- 🌱 Currently at the beginning of my programming journey.
-- 🎯 Goal: Build practical projects and grow into a skilled software engineer.
+🚀 My goal is to grow as a developer through continuous learning, problem-solving, and practical experience.
 
 ---
 
-## 🚀 My Learning Journey
+## 🧑‍💻 About Me
 
-I'm currently focusing on building a strong foundation before moving on to more advanced technologies.
-
-- 📌 Programming fundamentals
-- 🧩 Problem-solving and logical thinking
-- 🏗️ Object-Oriented Programming
-- 🔧 Git and GitHub
-- 💡 Software engineering principles
-- 🤖 Exploring Artificial Intelligence and modern technologies
+- 🎓 Computer Science student at Sohag University.
+- 🌱 Learning programming fundamentals and core computer science concepts.
+- 💻 Currently studying C++, Python, HTML, CSS, and CS50.
+- 🧩 Interested in problem-solving and software development.
+- 🎯 Focused on improving my skills and building my first practical projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies I'm Learning
 
-**Currently learning:** Programming fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CS50-000000?style=for-the-badge&logo=edx&logoColor=white" alt="CS50" />
+</p>
 
-**Exploring:** Software Engineering, AI & Technology
+---
 
-*This section will grow as I gain hands-on experience with more languages and tools.*
+## 🎯 Areas of Interest
+
+- 💻 Software Development
+- 🧩 Problem-Solving
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+
+*I'm exploring these fields as I continue my computer science journey.*
+
+---
+
+## 📚 Current Focus
+
+- Strengthening my programming fundamentals.
+- Practicing logical thinking and problem-solving.
+- Understanding core computer science concepts through CS50.
+- Learning to organize and share code using GitHub.
+- Working toward my first personal projects.
 
 ---
 
 ## 📂 Projects
 
-I'm just getting started, and this section will feature my projects as I build them.
-
-My goal is to share practical exercises, university assignments that are appropriate to publish, and personal projects that demonstrate my progress.
-
-> Every expert was once a beginner. One commit at a time. 🌱
+I'm currently focusing on learning and practice. This section will grow as I create projects and have work to share.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YoussefAdel2&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Youssef's GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAdel2&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
+  <a href="mailto:yadel9682@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://wa.me/201021254596">
-    <img
-      src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="Contact me on WhatsApp"
-    />
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Learn. Build. Improve. Repeat. 🚀</b>
+  <b>Learn. Practice. Build. Repeat. 🚀</b>
 </p>
 
 <p align="center">
-  <i>My journey in software engineering starts here.</i>
+  <i>Every expert was once a beginner.</i>
 </p>
